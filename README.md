@@ -1,4 +1,4 @@
-# Projeto software para barbearia 
+# Sistema de Gestão e Agendamento para Barbearias
 
 > Projeto de Desenvolvimento de Software para Gestão de Agendas e Recursos Financeiros para Barbearias
 
